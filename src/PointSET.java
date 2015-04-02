@@ -72,7 +72,5 @@ public class PointSET {
         return neighbor;
     } // a nearest neighbor in the set to point p; null if the set is empty
 
-    public static void main(String[] args) {
-
-    }// unit testing of the methods (optional)
+    public static void main(String[] args) {}// unit testing of the methods (optional)
 }
